@@ -1,36 +1,78 @@
-<h1 align="center">Hi 👋, I'm Mohammad Faizan</h1>
-<h3 align="center">A passionate frontend developerper from India</h3>
+<h1 align="center">Hey 👋 I am Mohammad Faizan..</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohd5zan&label=Profile%20views&color=0e75b6&style=flat" alt="mohd5zan" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohd5zan" alt="mohd5zan" /></a> </p>
+<p align="left">I’m a passionate software developer with a strong foundation in C++ and web technologies, focused on building clean, efficient, and user-friendly solutions. I enjoy turning ideas into real-world projects using modern tools like JavaScript, React, HTML, and CSS. With hands-on experience in mini projects and a constant drive to learn, I value problem-solving, code optimization, and continuous improvement. I’m motivated, detail-oriented, and always ready to take on challenges that help me grow as a developer.</p>
 
-<p align="left"> <a href="https://twitter.com/mohd5zan77" target="blank"><img src="https://img.shields.io/twitter/follow/mohd5zan77?logo=twitter&style=for-the-badge" alt="mohd5zan77" /></a> </p>
+###
 
-- 🌱 I’m currently learning **Node.js MongoDB**
+<h2 align="left">About me</h2>
 
-- 💬 Ask me about **React HTML CSS JS and GSAP**
+###
 
-- 📫 How to reach me **mohd5zan77@gmail.com**
+<p align="left">✨ Creating bugs since 2021 (and fixing them one commit later 😄)<br>📚 I'm currently learning advanced frontend development, React, and backend fundamentals<br>🎯 Goals: become a skilled full-stack developer, contribute to open source, and build real-world impactful products<br>🎲 Fun fact: I enjoy debugging more than writing code—because every bug teaches something new</p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K1tDd91W4CjgPR-xZvx1E0ksSLOjaOZd/view?usp=drive_link](https://drive.google.com/file/d/1K1tDd91W4CjgPR-xZvx1E0ksSLOjaOZd/view?usp=drive_link)
+###
 
-- ⚡ Fun fact **I believe good UI speaks louder than long explanations. I enjoy improving small things that make a big difference. I’m more excited about building than talking about building.**
+<h2 align="center">Skills</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mohd5zan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohd5zan77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammad-faizan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-faizan77" height="30" width="40" /></a>
-<a href="https://instagram.com/mohammad_5zan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad_5zan77" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohd5zan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohd5zan77" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohd5zan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohd5zan77" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohd5zan&show_icons=true&locale=en&layout=compact" alt="mohd5zan" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohd5zan&show_icons=true&locale=en" alt="mohd5zan" /></p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohd5zan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohd5zan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd5zan&" alt="mohd5zan" /></p>
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohammad-faizan77/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Mohd5zan77" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/1127976417158766612" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/mohammad_5zan7/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mohd5zan77@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Mohd5zan/Mohd5zan/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
+</div>
+
+###
